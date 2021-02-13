@@ -11,4 +11,6 @@
 <br/>
 
 ### Contact with me:
-[<img align="left" alt="maximivanov2004 | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][https://vk.com/maxim2332]
+[<img align="left" alt="maximivanov2004 | Vk" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/vk.svg" />][vk]
+
+[vk]: https://vk.com/maxim2332
